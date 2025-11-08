@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel>
+            <Label>Hola Aquest és el programa més molon</Label>
             <Button Content="Clica" HorizontalAlignment="Left" Margin="261,187,0,0" VerticalAlignment="Top"/>
             <Button Content="Clica" HorizontalAlignment="Left" Margin="261,187,0,0" VerticalAlignment="Top"/>
         </StackPanel>
