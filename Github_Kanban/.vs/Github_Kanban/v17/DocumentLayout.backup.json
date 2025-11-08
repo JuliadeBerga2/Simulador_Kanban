@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\julia\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\",
+  "WorkspaceRootPath": "C:\\Users\\W10 1050\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99C2215B-1C66-4BE7-9ADF-2803D2C414EF}|Github_Kanban\\Github_Kanban.csproj|c:\\users\\julia\\desktop\\github_kanban\\simulador_kanban\\github_kanban\\github_kanban\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{99C2215B-1C66-4BE7-9ADF-2803D2C414EF}|Github_Kanban\\Github_Kanban.csproj|c:\\users\\w10 1050\\desktop\\github_kanban\\simulador_kanban\\github_kanban\\github_kanban\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{99C2215B-1C66-4BE7-9ADF-2803D2C414EF}|Github_Kanban\\Github_Kanban.csproj|solutionrelative:github_kanban\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99C2215B-1C66-4BE7-9ADF-2803D2C414EF}|Github_Kanban\\Github_Kanban.csproj|c:\\users\\julia\\desktop\\github_kanban\\simulador_kanban\\github_kanban\\github_kanban\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99C2215B-1C66-4BE7-9ADF-2803D2C414EF}|Github_Kanban\\Github_Kanban.csproj|C:\\Users\\W10 1050\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\github_kanban\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99C2215B-1C66-4BE7-9ADF-2803D2C414EF}|Github_Kanban\\Github_Kanban.csproj|solutionrelative:github_kanban\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1052,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
@@ -46,6 +42,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
             },
             {
@@ -53,12 +53,16 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\W10 1050\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Github_Kanban\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\julia\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\W10 1050\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml",
               "RelativeToolTip": "Github_Kanban\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-08T18:18:33.967Z",
@@ -68,14 +72,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\W10 1050\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Github_Kanban\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\julia\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\W10 1050\\Desktop\\Github_Kanban\\Simulador_Kanban\\Github_Kanban\\Github_Kanban\\MainWindow.xaml.cs",
               "RelativeToolTip": "Github_Kanban\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:18:32.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T18:18:32.968Z"
             }
           ]
         },

@@ -10,6 +10,7 @@
         <StackPanel>
             <Button Content="Clica" HorizontalAlignment="Left" Margin="261,187,0,0" VerticalAlignment="Top"/>
             <Button Content="Clica" HorizontalAlignment="Left" Margin="261,187,0,0" VerticalAlignment="Top"/>
+            <CheckBox>CheckBox</CheckBox>
         </StackPanel>
 
     </Grid>
